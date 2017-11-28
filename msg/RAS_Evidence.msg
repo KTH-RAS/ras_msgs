@@ -21,10 +21,13 @@ string green_cube=Green Cube
 string yellow_cube=Yellow Cube
 string yellow_ball=Yellow Ball
 string red_ball=Red Ball
+string red_cylinder=Red Cylinder
 string green_cylinder=Green Cylinder
+string green_hollow_cube=Green Hollow Cube
 string blue_triangle=Blue Triangle
 string purple_cross=Purple Cross
 string purple_star=Purple Star
+string orange_cross=Orange Cross
 string patric=Patric
 
 #### Location of the object in the /map frame ####
